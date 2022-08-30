@@ -10,7 +10,6 @@ package main
 import (
 	"flag"
 	"fmt"
-  "socket"
 	"io/ioutil"
 	"math/rand"
 	"net/http"
